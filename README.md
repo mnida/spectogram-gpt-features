@@ -1,1 +1,1 @@
-# spectogram-gpt-features
+# spectogram-SAE-gpt-features (WIP)
